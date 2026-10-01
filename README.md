@@ -58,7 +58,7 @@ Below is a curated comparison of leading commercial Decentralized Identity SaaS 
 
 ## 🔓 Open-Source GitHub Projects
 
-The decentralized identity ecosystem has a mature, standards-driven open-source foundation anchored by W3C, DIF, and OpenWallet Foundation specifications. Below are production-ready open-source projects sorted by GitHub star counts (descending).
+The decentralized identity ecosystem has a mature, standards-driven open-source foundation anchored by W3C, DIF, and OpenWallet Foundation specifications. Below are production-ready open-source projects sorted by GitHub Stars_Counts (descending).
 
 ### 🚀 Full-Stack Identity Platforms
 
